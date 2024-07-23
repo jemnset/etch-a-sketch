@@ -14,12 +14,12 @@ body {
 .container {
     display: flex;
     flex-wrap: wrap;
-    width:720px;
-    height:720px;
+    /*width:720px;
+    height:720px;*/
 }
 
 .item {
-    flex: 0 0 45px;
+    /*flex: 0 0 45px;*/
     height:auto;
 }
 
