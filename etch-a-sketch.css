@@ -16,6 +16,7 @@ body {
     flex-wrap: wrap;
     /*width:720px;
     height:720px;*/
+    border-style: solid;
 }
 
 .item {
@@ -27,4 +28,8 @@ body {
     content:'';
     float:left;
     padding-top:100%;
+}
+
+button{
+    margin: 20px;
 }
